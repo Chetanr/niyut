@@ -1,0 +1,99 @@
+ #welcome
+ {
+	 margin-top:100px;
+	 margin-left:200px;
+	 color:black; 
+	 float:left;
+	 width:400px;
+	 
+ }
+ 
+ #sign
+ {
+	 float:right;
+	 margin-right:80px;
+	margin-top:100px; 
+	
+	width:400px;
+	background-repeat: no-repeat;
+	height:400px;
+
+ }
+ 
+ .box
+ {
+	 width:150px;
+	 height:20px;
+	 
+	 
+ }
+ 
+ .img
+ {
+	 height:80px;
+	 width:80px;
+ }
+ 
+ .list
+ {
+	 display:inline;
+	 list-style:none;
+ }
+ 
+.list:hover { 
+    background-color: red;
+}
+ #menu
+ {
+	 display:inline;
+ }
+ .img1
+ {
+	 height:100px;
+	 width:100px;
+ 	 margin-left:30px;
+	 margin-top:10px;
+ 
+ }
+ 
+ #pid
+ {
+	 
+	 width:200px;
+	 text-align:center;
+	 
+ }
+ 
+ #post
+ {
+	 font-size:20px;
+	 width:100px;
+	 
+ }
+ 
+ #aques
+ {
+	 width:500px;
+	 height:50px;
+	 background-color: grey;
+	 color:white;
+ }
+ 
+ .img2
+ {
+	 width:30px;
+	 height:30px;
+	 
+ }
+ 
+ #post1
+ {
+	 width:300px;
+	 
+ }
+ 
+ .b
+ {
+	 background-image: url("bg.jpg");
+	 
+ }
